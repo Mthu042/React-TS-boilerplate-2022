@@ -12,11 +12,11 @@ This is my own react boiler plate for starting your awesome projects.
 # Usage
 For start using this boilerblate u need copy this git repo by this command
 ```
-~$ git clone https://github.com/Mthu042/React-boilerplate-2022.git
+git clone https://github.com/Mthu042/React-boilerplate-2022.git
 ```
 After this all u need is be shure u have installed yarn, if no u can do it like this
 ```
-~$ npm i --global yarn
+npm i --global yarn
 ```
 And run in the repo dir
 ```
